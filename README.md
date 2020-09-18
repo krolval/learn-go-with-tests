@@ -4,4 +4,4 @@ learn-go-with-tests
 ## basics
 
 go run xxx.go
-go test
+go test -v
