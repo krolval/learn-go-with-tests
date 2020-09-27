@@ -10,7 +10,7 @@ go test -cover
 
 ## settings
 go get -u github.com/kisielk/errcheck
-errcheck . 
+errcheck .
 
 ## Resources
 https://github.com/quii/learn-go-with-tests
